@@ -1,5 +1,5 @@
 # wpf_projects
-First project include basics elements:
+First project includes basic elements:
 - Border
 - StackPanel
 - Grid
